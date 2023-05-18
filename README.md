@@ -4,16 +4,16 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="40">
 </a>
 
-I am a developer currently focused on PHP backend development among other things - listed down in the Languages and tools section. 
+💡 I am a developer currently focused on PHP backend development among other things - listed down in the Languages and tools section. 
 
-I enjoy tackling logical puzzles and problems that software development presents, as they provide me with the opportunity to apply my analytical thinking skills and come up with creative solutions.
+🛠 I enjoy tackling logical puzzles and problems that software development presents, as they provide me with the opportunity to apply my analytical thinking skills and come up with creative solutions.
 
-I strive to learn more each day and stay up-to-date with the latest advancements in the field of software development. 
+📚 I strive to learn more each day and stay up-to-date with the latest advancements in the field of software development. 
 Whether it's exploring new programming languages or studying cutting-edge frameworks, I am committed to continuously expand my knowledge and refine my skills.
 
-- 🔭 Currently working on a simple backend pattern for a News site / Blog post site. <br>https://github.com/Cerbenix/Posts_page 
+🔭 Currently working on a simple backend pattern for a News site / Blog post site. <br>https://github.com/Cerbenix/Posts_page 
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -22,5 +22,5 @@ Whether it's exploring new programming languages or studying cutting-edge framew
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Stats:
+### 📊 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerbenix&theme=dark)](https://github.com/cerbenix/github-readme-stats)
