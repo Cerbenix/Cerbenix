@@ -8,8 +8,7 @@
 
 🛠 I enjoy tackling logical puzzles and problems that software development presents, as they provide me with the opportunity to apply my analytical thinking skills and come up with creative solutions.
 
-📚 I strive to learn more each day and stay up-to-date with the latest advancements in the field of software development. 
-Whether it's exploring new programming languages or studying cutting-edge frameworks, I am committed to continuously expand my knowledge and refine my skills.
+📚 I strive to learn more each day. Whether it's exploring new programming languages or studying frameworks, I am committed to continuously expand my knowledge and refine my skills.
 
 🔭 Currently working on a simple backend pattern for a News site / Blog post site. <br>https://github.com/Cerbenix/Posts_page 
 
