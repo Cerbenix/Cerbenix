@@ -10,7 +10,7 @@
 
 📚 I strive to learn more each day. Whether it's exploring new programming languages or studying frameworks, I am committed to continuously expand my knowledge and refine my skills.
 
-🔭 Currently working on a simple backend pattern for a News site / Blog post site. <br>https://github.com/Cerbenix/Posts_page 
+🔭 Currently working on a bank simulation site. <br>[MPBank](https://github.com/Cerbenix/MPBank) 
 
 ### 🧰 Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
