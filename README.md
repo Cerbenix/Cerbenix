@@ -1,16 +1,7 @@
-### Hi there 👋, I'm Matīss!
----
+
 <a href="https://www.linkedin.com/in/matiss-porietis">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="40">
 </a>
-
-💡 I am a developer currently focused on PHP backend development among other things - listed down in the Languages and tools section. 
-
-🛠 I enjoy tackling logical puzzles and problems that software development presents, as they provide me with the opportunity to apply my analytical thinking skills and come up with creative solutions.
-
-📚 I strive to learn more each day. Whether it's exploring new programming languages or studying frameworks, I am committed to continuously expand my knowledge and refine my skills.
-
-🔭 Currently working on a bank simulation site. <br>[MPBank](https://github.com/Cerbenix/MPBank) 
 
 ### 🧰 Languages and Tools:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
